@@ -1,0 +1,4 @@
+{
+  "autocomplete.keybindings.enter": "insertSelected",
+  "autocomplete.keybindings.tab": "insertSelected"
+}

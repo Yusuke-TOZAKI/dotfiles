@@ -1,0 +1,2 @@
+/Users/usuke/.asdf/installs/python/anaconda3-2023.09-0
+/Users/usuke/.asdf/installs/python/anaconda3-2023.09-0/envs/transformers
